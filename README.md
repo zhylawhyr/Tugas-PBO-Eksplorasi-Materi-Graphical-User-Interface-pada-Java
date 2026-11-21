@@ -3,7 +3,6 @@
 Latihan/eksplorasi materi **Graphical User Interface (GUI)** pada Java ☕
 Program menghitung **luas dan keliling** bangun datar (Persegi, Lingkaran, Persegi Panjang).
 
----
 
 ## 👤 Identitas
 
@@ -15,7 +14,6 @@ Program menghitung **luas dan keliling** bangun datar (Persegi, Lingkaran, Perse
 | 📘 **Mata Kuliah** | Pemrograman Berorientasi Objek (PBO) |
 | 👨‍🏫 **Dosen Pengampu** | Rovana Afwani, S.T., M.T. |
 
----
 
 ## 📁 Isi Repositori
 
@@ -25,17 +23,16 @@ Program menghitung **luas dan keliling** bangun datar (Persegi, Lingkaran, Perse
 | 📝 **README** | `README.md`, informasi 5 komponen utama GUI (class/interface) dan penerapan OOP |
 | 📸 **Screenshot** | Folder `screenshot/` berisi tampilan awal dan contoh hasil |
 
-```
 GuiBangun.java
 README.md
-screenshot/
- ├─ 1-tampilan-awal.png
- └─ 2-hasil-persegi-panjang.png
-```
+Screenshoot/
+ ├─ Tampilan Awal.png
+ ├─ Persegi Panjang.png
+ ├─ Persegi.png
+ └─ Lingkaran.png
 
 > 📝 Semua class berada dalam satu file `GuiBangun.java`. Class `GuiBangun` bersifat `public` dan berisi `main`.
 
----
 
 ## 🧩 5 Komponen Utama GUI
 
@@ -46,8 +43,6 @@ screenshot/
 | 3️⃣ | 🔘 **Atomic Component** | `JLabel`, `JTextField`, `JButton` | Teks dan hasil, kolom input ukuran, dan tombol pilihan bangun |
 | 4️⃣ | 📐 **Layout Classes** | `BorderLayout`, `GridLayout`, `FlowLayout` | `BorderLayout` untuk susunan utama jendela, `GridLayout` untuk input dan hasil, `FlowLayout` untuk deretan tombol |
 | 5️⃣ | ⚡ **Event Listener** | `ActionListener` (interface), `MouseAdapter` (adapter class) | `actionPerformed()` di-override untuk menghitung saat tombol diklik. `mouseEntered()` dan `mouseExited()` di-override untuk menampilkan bangun yang disorot kursor |
-
----
 
 ## 🧬 Penerapan OOP
 
@@ -66,25 +61,20 @@ screenshot/
 
 Alur pewarisannya:
 
-```
 Informasi (interface)
      ▲  implements
 BangunDatar (abstract class)
      ▲  extends
 Persegi | Lingkaran | PersegiPanjang
-```
 
 Potongan kode di GUI:
 
-```java
+java
 BangunDatar b;                  // tipe abstract class
 b = new Persegi(a);             // atau Lingkaran / PersegiPanjang, sesuai tombol
 
 Informasi info = b;             // tipe interface
 info.ambilInfo();               // nama, luas, dan keliling dari subclass yang sebenarnya
-```
-
----
 
 ## ▶️ Cara Menjalankan
 
@@ -92,12 +82,9 @@ info.ambilInfo();               // nama, luas, dan keliling dari subclass yang s
 
 **Lewat terminal:**
 
-```
 javac GuiBangun.java
 java GuiBangun
-```
 
----
 
 ## 🕹️ Cara Pakai
 
@@ -108,11 +95,6 @@ java GuiBangun
 Luas dan keliling muncul di bagian bawah ✅
 Kalau input bukan angka, muncul pesan error ⚠️
 
----
-
----
-
----
 
 ## 📷 Screenshot
 
@@ -132,14 +114,5 @@ Kalau input bukan angka, muncul pesan error ⚠️
 
 ![Lingkaran](Screenshoot/Lingkaran.png)
 
----
-
-🎓 *Tugas 3B - Latihan/Eksplorasi Materi Graphical User Interface pada Java*
-
----
-
-🎓 *Tugas 3B - Latihan/Eksplorasi Materi Graphical User Interface pada Java*
-
----
 
 🎓 *Tugas 3B - Latihan/Eksplorasi Materi Graphical User Interface pada Java*
