@@ -100,11 +100,11 @@ Kalau input bukan angka, muncul pesan error ⚠️
 
 **Tampilan awal:**
 
-![Tampilan Awal](Screenshoot/Tampilan%20Awal.png)
+![Tampilan Awal](Screenshoot/TampilanAwal.png)
 
 **Contoh hasil Persegi Panjang:**
 
-![Persegi Panjang](Screenshoot/Persegi%20Panjang.png)
+![Persegi Panjang](Screenshoot/PersegiPanjang.png)
 
 **Contoh hasil Persegi:**
 
