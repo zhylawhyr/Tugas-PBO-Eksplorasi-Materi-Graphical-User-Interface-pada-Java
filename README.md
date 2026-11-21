@@ -110,23 +110,29 @@ Kalau input bukan angka, muncul pesan error ⚠️
 
 ---
 
-## 📸 Screenshot
+---
+
+## 📷 Screenshot
 
 **Tampilan awal:**
 
-(Screenshot/tampilan-awal.png)
+![Tampilan Awal](Screenshot/Tampilan-Awal.png)
 
 **Contoh hasil Persegi Panjang:**
 
-(Screenshoot/persegi-panjang.png)
+![Persegi Panjang](Screenshot/Persegi-Panjang.png)
 
 **Contoh hasil Persegi:**
 
-(Screenshoot/persegi-panjang.png)
+![Persegi](Screenshot/Persegi.png)
 
 **Contoh hasil Lingkaran:**
 
-(Screenshoot/lingkaran.png)
+![Lingkaran](Screenshot/Lingkaran.png)
+
+---
+
+🎓 *Tugas 3B - Latihan/Eksplorasi Materi Graphical User Interface pada Java*
 
 ---
 
