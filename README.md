@@ -96,15 +96,17 @@ Luas dan keliling muncul di bagian bawah ✅
 Kalau input bukan angka, muncul pesan error ⚠️
 
 
+---
+
 ## 📷 Screenshot
 
 **Tampilan awal:**
 
-![Tampilan Awal](Screenshoot/TampilanAwal.png)
+![Tampilan Awal](Screenshoot/Tampilan%20Awal.png)
 
 **Contoh hasil Persegi Panjang:**
 
-![Persegi Panjang](Screenshoot/PersegiPanjang.png)
+![Persegi Panjang](Screenshoot/Persegi%20Panjang.png)
 
 **Contoh hasil Persegi:**
 
@@ -113,5 +115,6 @@ Kalau input bukan angka, muncul pesan error ⚠️
 **Contoh hasil Lingkaran:**
 
 ![Lingkaran](Screenshoot/Lingkaran.png)
+
 
 🎓 *Tugas 3B - Latihan/Eksplorasi Materi Graphical User Interface pada Java*
