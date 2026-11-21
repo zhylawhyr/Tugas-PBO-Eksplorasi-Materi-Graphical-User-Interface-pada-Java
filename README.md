@@ -114,19 +114,19 @@ Kalau input bukan angka, muncul pesan error ⚠️
 
 **Tampilan awal:**
 
-![Tampilan awal](screenshot/1-tampilan-awal.png)
+![Tampilan awal](Screenshot/tampilan-awal.png)
 
 **Contoh hasil Persegi Panjang:**
 
-![Hasil persegi panjang](screenshot/2-hasil-persegi-panjang.png)
+![Hasil persegi panjang](Screenshoot/persegi-panjang.png)
 
 **Contoh hasil Persegi:**
 
-![Hasil persegi panjang](screenshot/2-hasil-persegi-panjang.png)
+![Hasil persegi panjang](Screenshoot/persegi-panjang.png)
 
 **Contoh hasil Lingkaran:**
 
-![Hasil persegi panjang](screenshot/2-hasil-persegi-panjang.png)
+![Hasil persegi panjang](Screenshoot/lingkaran.png)
 
 ---
 
