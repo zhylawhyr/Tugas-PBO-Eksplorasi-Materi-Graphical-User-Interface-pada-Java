@@ -120,6 +120,14 @@ Kalau input bukan angka, muncul pesan error ⚠️
 
 ![Hasil persegi panjang](screenshot/2-hasil-persegi-panjang.png)
 
+**Contoh hasil Persegi:**
+
+![Hasil persegi panjang](screenshot/2-hasil-persegi-panjang.png)
+
+**Contoh hasil Lingkaran:**
+
+![Hasil persegi panjang](screenshot/2-hasil-persegi-panjang.png)
+
 ---
 
 🎓 *Tugas 3B - Latihan/Eksplorasi Materi Graphical User Interface pada Java*
